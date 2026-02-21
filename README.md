@@ -71,4 +71,6 @@ Open using Power BI Desktop.
 
 Interact with slicers and filters to explore regional performance insights.
 
-8. 
+8. Screenshot / Demo
+https://github.com/sandeep-sandy123/Regional-Sales-Performance-Analytics-Dashboard-Power-BI/blob/main/Screenshot%202026-02-19%20084235.png
+https://github.com/sandeep-sandy123/Regional-Sales-Performance-Analytics-Dashboard-Power-BI/blob/main/Sales%20Overview%20Data.PowerBI.pbix
