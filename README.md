@@ -1,5 +1,5 @@
-# Regional-Sales-Performance-Analytics-Dashboard-Power-BI
-Regional Sales Performance Analytics Dashboard is an interactive Power BI solution designed to monitor, analyze, and compare sales performance across multiple regions.
+📊 Sales Performance & Revenue Optimization Analysis
+The business lacked clear visibility into revenue trends, regional performance, and product contribution, making it difficult to make data-driven decisions.
 
 1. 📌 Overview
 
@@ -7,61 +7,45 @@ This project presents an interactive Regional Sales Performance Dashboard built 
 It provides a comprehensive view of sales metrics across multiple regions, helping identify trends, high-performing areas, and growth opportunities through dynamic visual analysis.
 The goal of this project is to demonstrate strong data modeling, DAX calculation skills, and business insight generation using real-world sales data.
 
-2. 🎯 Objectives
+2. 🎯 Objective
 
-Monitor overall sales performance
+To analyze sales data and develop an interactive dashboard that provides actionable insights into business performance.
 
-Compare regional contributions
+3.🛠 Tools Used
 
-Analyze sales trends over time
+Power BI
 
-Identify top-performing regions
+SQL
 
-Support data-driven decision-making
+Excel
 
-3. 🛠️ Tools & Technologies Used
+ChatGPT (for query support and KPI ideation)
 
-Power BI Desktop
+4. 📈 Key KPIs
 
-Power Query (Data Cleaning & Transformation)
+Revenue Growth
 
-DAX (Data Analysis Expressions)
+Regional Contribution
 
-Data Modeling & Relationships
+Product Performance
 
-Interactive Visualizations & Slicers
+Sales Trends Over Time
 
-4. 📈 Key Features
+5. 📊 Key Insights
 
-KPI Cards (Total Sales, Revenue, etc.)
+Identified regions contributing 35%+ of total revenue
 
-Regional Sales Comparison
+Detected underperforming regions despite high sales volume
 
-Time-based Trend Analysis
+Observed trends in product demand across time periods
 
-Interactive Filters & Drill-down
+6. 💡 Business Recommendations
 
-Clean and Business-Oriented UI Design
+Focus marketing efforts on high-performing regions
 
-5. 📂 Data Processing
+Optimize inventory for top-selling products
 
-Cleaned and transformed raw sales data using Power Query
-
-Built relationships between tables
-
-Created calculated columns and measures using DAX
-
-Implemented sorting and formatting for accurate time analysis
-
-6. 💡 Business Insights Generated
-
-Identified highest revenue-generating regions
-
-Tracked sales fluctuations across different periods
-
-Highlighted growth opportunities and performance gaps
-
-Enabled faster comparison of regional performance
+Improve strategy in underperforming regions
 
 7. How to Use
 
